@@ -71,4 +71,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### Design
 
-<img width="176" alt="image" src="https://github.com/user-attachments/assets/b387f8d0-ae00-4120-894d-c908e26fc50d">
+<img width="185" alt="image" src="https://github.com/user-attachments/assets/cd32c882-853c-4315-a7ce-3f2278072012">
+
+<img width="172" alt="image" src="https://github.com/user-attachments/assets/9c1d345e-dc08-4c34-b735-2be88d22315c">
+
+
